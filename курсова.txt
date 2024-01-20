@@ -1,0 +1,4 @@
+MyClass(name = "jYsbqSo", value = 46)
+MyClass(name = "jYsbqSo", value = 46)
+MyClass(name = "jYsbqSo", value = 46)
+MyClass(name = "jYsbqSo", value = 46)  
